@@ -6,6 +6,10 @@
 👯 **Looking to collaborate on:** Backend Development + AI Agents + ML Project and Research.                                                  
 🌱 **Learning:** AIML & DevOps   
 
+### 🌐 Connect Here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-mishra-b84363256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhmishra112233@gmail.com)[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+
+
 
 ### 💻  Technologies
 
