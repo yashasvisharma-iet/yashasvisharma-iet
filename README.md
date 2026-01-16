@@ -4,7 +4,7 @@
 🎓 **Pursing B.Tech IT | Graduating in 2027 | IET DAVV Indore**  
 💻 **Experience:** Software Engineering Intern **Google 2026** | Step Intern **Google 2025** | Agent Developer Intern **VoiceOwl 2025**   
 👯 **Looking to collaborate on:** Backend Development + AI Agents + ML Project and Research.                                                  
-🌱 **Learning:** AIML & DevOps   
+🌱 **Next Goal:** Open source Contributions | ML | DevOps | System Design  
 
 ### 🌐 Connect Here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-mishra-b84363256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anirudhmishra112233@gmail.com)[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&logoColor=white)](https://yourwebsite.com)
