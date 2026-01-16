@@ -1,8 +1,6 @@
 # Hello 👋 This is Yashasvi
-<h2 align="left">Backend Developer | DevOps | AI agents</h2>
-
-Pursuing Btech IT | Graduating in 2027 | IET DAVV Indore
-
+<h3 align="left">Backend Developer | DevOps | AI agents</h3>
+<h4 align="left">Pursuing Btech IT | Graduating in 2027 | IET DAVV Indore<h4>
 Let's code and create together! 🚀
 
 # 💻  Technologies
